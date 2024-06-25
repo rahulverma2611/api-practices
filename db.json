@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "name": "Leanne Grahammmmm",
+      "email": "Sincere@april.biz",
+      "phone": "555-1234",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "phone": "555-5678"
+    },
+    {
+      "id": "3",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "phone": "555-2468"
+    },
+    {
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "555-7890"
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "555-1357"
+    },
+    {
+      "id": "6",
+      "name": "batman",
+      "email": "batman@april.biz",
+      "phone": "111-1234"
+    },
+    {
+      "id": "7",
+      "name": "bruce",
+      "email": "ricksandhu2611@gmail.com",
+      "phone": "9873234932"
+    },
+    {
+      "id": "8",
+      "name": "fwef",
+      "email": "fewfwe",
+      "phone": "fewfcwef"
+    },
+    {
+      "id": "9",
+      "name": "ferge",
+      "email": "rferfe",
+      "phone": "rgerger"
+    },
+    {
+      "name": "hi",
+      "email": "fwkefk",
+      "phone": "1000",
+      "id": "10"
+    },
+    {
+      "name": "nonee",
+      "email": "dwnfkwen",
+      "phone": "mlwmdlweml",
+      "id": "11"
+    },
+    {
+      "id": "b1c1",
+      "name": "gene",
+      "email": "gene@gmail.com",
+      "phone": "9898989898"
+    },
+    {
+      "id": "5ace",
+      "name": "its me",
+      "email": "me@gmail.com",
+      "phone": "9090909090"
+    }
+  ],
+  "data": [
+    {
+      "id": "1",
+      "images": "https://picsum.photos/148/100",
+      "rent": "14500",
+      "apartmentType": "2bhk",
+      "furnished": "fully"
+    },
+    {
+      "id": "2",
+      "images": "https://picsum.photos/129/100",
+      "rent": "13500",
+      "apartmentType": "1bhk",
+      "furnished": "semi"
+    },
+    {
+      "id": "3",
+      "images": "https://picsum.photos/236/100",
+      "rent": "12000",
+      "apartmentType": "3bhk",
+      "furnished": "raw"
+    },
+    {
+      "id": "4",
+      "images": "https://picsum.photos/221/100",
+      "rent": "12500",
+      "apartmentType": "2bhk",
+      "furnished": "semi"
+    },
+    {
+      "id": "5",
+      "images": "https://picsum.photos/234/100",
+      "rent": "14500",
+      "apartmentType": "1bhk",
+      "furnished": "fully"
+    },
+    {
+      "id": "6",
+      "images": "https://picsum.photos/168/100",
+      "rent": "13000",
+      "apartmentType": "2bhk",
+      "furnished": "raw"
+    },
+    {
+      "id": "7",
+      "images": "https://picsum.photos/212/100",
+      "rent": "14000",
+      "apartmentType": "3bhk",
+      "furnished": "fully"
+    },
+    {
+      "id": "8",
+      "images": "https://picsum.photos/105/100",
+      "rent": "13500",
+      "apartmentType": "1bhk",
+      "furnished": "semi"
+    },
+    {
+      "id": "9",
+      "images": "https://picsum.photos/222/100",
+      "rent": "11500",
+      "apartmentType": "2bhk",
+      "furnished": "raw"
+    },
+    {
+      "id": "10",
+      "images": "https://picsum.photos/187/100",
+      "rent": "14500",
+      "apartmentType": "3bhk",
+      "furnished": "fully"
+    },
+    {
+      "id": "11",
+      "images": "https://picsum.photos/143/100",
+      "rent": "12500",
+      "apartmentType": "2bhk",
+      "furnished": "semi"
+    },
+    {
+      "id": "12",
+      "images": "https://picsum.photos/249/100",
+      "rent": "13000",
+      "apartmentType": "1bhk",
+      "furnished": "raw"
+    },
+    {
+      "id": "13",
+      "images": "https://picsum.photos/118/100",
+      "rent": "14000",
+      "apartmentType": "3bhk",
+      "furnished": "fully"
+    },
+    {
+      "id": "14",
+      "images": "https://picsum.photos/238/100",
+      "rent": "13500",
+      "apartmentType": "2bhk",
+      "furnished": "semi"
+    },
+    {
+      "id": "15",
+      "images": "https://picsum.photos/221/100",
+      "rent": "14500",
+      "apartmentType": "1bhk",
+      "furnished": "fully"
+    }
+  ]
+}
